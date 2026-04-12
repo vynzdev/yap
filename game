@@ -1,16 +1,14 @@
 {
-  "Old_Backup_01": {
-    "link": "https://www.roblox.com/games/123456789/Old-Game",
+  "Backup_A": {
+    "link": "...",
     "placeId": "122339508165684",
-    "universeId": "9990141813",
-    "addedAt": 1712000000000,
-    "active": true
+    "active": true,
+    "addedAt": 1712000000000
   },
-  "Old_Backup_01": {
-    "link": "https://www.roblox.com/games/123456789/Old-Game",
+  "Backup_B": {
+    "link": "...",
     "placeId": "92791736899057",
-    "universeId": "9990141813",
-    "addedAt": 1712000000002,
-    "active": true
+    "active": true,
+    "addedAt": 1712000000002
   }
 }
