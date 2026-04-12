@@ -10,5 +10,11 @@
     "placeId": "92791736899057",
     "active": true,
     "addedAt": 1712000000002
+  },
+  "Backup_C": {
+    "link": "...",
+    "placeId": "118344508854931",
+    "active": true,
+    "addedAt": 1712000000003
   }
 }
